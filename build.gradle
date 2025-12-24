@@ -37,6 +37,8 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
     implementation 'com.razorpay:razorpay-java:1.4.4'
     implementation 'commons-codec:commons-codec:1.15'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
     // Firebase Admin SDK (REQUIRED)
     implementation 'com.google.firebase:firebase-admin:9.2.0'
 
